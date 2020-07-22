@@ -49,6 +49,9 @@ sudo apt install -y openjdk-14-jdk
 #MYSQL Client
 sudo apt install -y mysql-client-core-8.0     # version 8.0.20-0ubuntu0.20.04.1
 
+#MYSQL SERVER
+sudo apt install -y mysql-server
+
 #Micro
 sudo apt -y install micro
 
